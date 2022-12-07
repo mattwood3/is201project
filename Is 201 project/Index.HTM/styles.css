@@ -1,0 +1,48 @@
+body{
+            color:black;
+            background-color: ivory;
+            background-size: repeat;
+            font-family: Arial, Helvetica, sans-serif
+        }
+        h1{
+            text-align: center;
+        }
+        .llama{
+            font-family: Arial, Helvetica, sans-serif;
+            color: black;
+            font-size: 150%;
+            text-align: center;
+        }
+        .top:hover{
+            text-decoration: underline;
+            font-size: 105%;
+            font-weight: bold;
+        }
+        img{
+            border: 3px solid black;
+            padding: 5px;
+            margin: 5px;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 18.5%;
+        }
+        ol{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: x-large;
+            font-weight: bold;
+        }
+        .underline{
+            text-decoration: underline;
+        }
+        ul{
+            font-weight: 200;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .video{
+            text-align: left;
+        }
+        .header{
+            text-align: center;
+            font-size: x-large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
